@@ -1,5 +1,5 @@
 # cLSDCGAN
-
+[[DCGAN Paper](https://arxiv.org/pdf/1511.06434.pdf)][[LSGAN Paper](https://arxiv.org/pdf/1611.04076.pdf)][[Implementation](https://github.com/ChihchengHsieh/cLSDCGAN)]
 ## The Structure
 ![](https://github.com/ChihchengHsieh/cLSDCGAN/blob/master/Img/Structure.png?raw=true)
 
